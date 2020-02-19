@@ -126,6 +126,8 @@ const key = document.querySelector(`body`)
 }
 
 
+
+// Right Click Context Menu
 const contextClick = document.querySelector(`body`)
     contextClick.addEventListener(`contextmenu`,() => {
        if (contextClick.style.color === `black`) {
