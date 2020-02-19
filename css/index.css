@@ -215,6 +215,13 @@ img {
   color: #212529;
   text-decoration: none;
 }
+button {
+  text-decoration: none;
+  border: none;
+  background-color: white;
+  font-size: 1.6rem;
+  color: #212529;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed #C0C0C0;
